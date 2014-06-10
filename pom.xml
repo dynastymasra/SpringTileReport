@@ -10,7 +10,6 @@
     <version>1.0</version>
 
     <name>Spring Tile Database Rest</name>
-    <url>http://maven.apache.org</url>
 
     <properties>
         <org.springframework.version>4.0.5.RELEASE</org.springframework.version>
