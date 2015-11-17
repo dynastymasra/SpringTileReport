@@ -16,7 +16,7 @@ use database MySql
 * [MySql](https://www.mysql.com/)
 
 #### Setup Database
-* Open file __jdbc.properties in /src/resources/META-INF__.
+* Open file *jdbc.properties* in */src/resources/META-INF*.
 * Edit __jdbc.url__, __jdbc.username__, and __jdbc.password__ to your database configuration.
 
 #### How Run
