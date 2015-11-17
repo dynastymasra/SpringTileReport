@@ -1,5 +1,6 @@
 ### Spring Tile Report
 
+[![Java](https://img.shields.io/badge/java-1.7-red.svg)](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 [![Spring](https://img.shields.io/badge/spring-4.0.5-yellow.svg)](https://spring.io/)
 [![MySQL](https://img.shields.io/badge/mysql-5.1.26-orange.svg)](https://www.mysql.com/)
 [![Apache Maven](https://img.shields.io/badge/maven-3.0-blue.svg)](https://maven.apache.org/docs/3.0/release-notes.html)
